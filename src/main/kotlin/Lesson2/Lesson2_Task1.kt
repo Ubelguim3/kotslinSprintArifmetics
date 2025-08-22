@@ -6,5 +6,4 @@ fun task1() {
 
     val average = ((student1 + student2 + student3 + student4) / 4)
     println(average)
-
 }
