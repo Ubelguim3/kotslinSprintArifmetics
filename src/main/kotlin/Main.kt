@@ -1,4 +1,5 @@
+import Lesson2.task5
 
 fun main() {
-    task1()
+    task5()
 }
